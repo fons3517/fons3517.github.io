@@ -13,9 +13,9 @@ In this assignment, I've corrected the errors that have been mentioned, made the
 
 **[title](https://fons3517.github.io/)**
 
-**![alt text](![image](https://user-images.githubusercontent.com/86126680/127753797-a934197e-fd2e-4041-afa8-07bc8e9f1451.png)
+**![Screenshot of top half of page](![image](https://user-images.githubusercontent.com/86126680/127753797-a934197e-fd2e-4041-afa8-07bc8e9f1451.png)
 )**
 
-**![alt text](![image](https://user-images.githubusercontent.com/86126680/127753822-fb7170c6-ffe6-4c50-8265-971b9878c2c3.png)
+**![Screenshot of bottom half of page](![image](https://user-images.githubusercontent.com/86126680/127753822-fb7170c6-ffe6-4c50-8265-971b9878c2c3.png)
 )**
 
